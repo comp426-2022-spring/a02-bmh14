@@ -1,5 +1,5 @@
 // Import the coinFlip function from your coin.mjs file
-import minmist from "minmist"
+import minimist from "minmist"
 import { coinFlip, countFlips } from "./modules/coin.mjs";
 
 // Call the coinFlip function and put the return into STDOUT
