@@ -1,0 +1,23 @@
+{
+  "name": "coinflip",
+  "version": "1.0.0",
+  "description": "This is a simple package that emulates coinflips in several ways",
+  "main": "flip.js",
+  "scripts": {
+    "flip":"node flip.js",
+    "flips": "node flips.js",
+    "guess-flip": "node guess-flip.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bmh14: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@github.com/comp426-2022-spring/a02-bmh14.git"
+  },
+  "author": "bmh14",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a02-bmh14/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a02-bmh14#readme"
+}
