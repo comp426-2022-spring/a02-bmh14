@@ -1,5 +1,5 @@
 import minimist from "minimist"
-import { coinFlip, countFlips } from "./modules/coin.mjs"
+import { coinFlips, countFlips } from "./modules/coin.mjs"
 
 const args = minimist(process.argv.slice(2))
 if (args.number == null) { args.number = 1 }
